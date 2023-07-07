@@ -1,0 +1,5 @@
+C:/Users/niko6/CLionProjects/Graphic/cmake-build-debug/CMakeFiles/Rasterization.dir
+C:/Users/niko6/CLionProjects/Graphic/cmake-build-debug/CMakeFiles/Raytracing.dir
+C:/Users/niko6/CLionProjects/Graphic/cmake-build-debug/CMakeFiles/DirectX12.dir
+C:/Users/niko6/CLionProjects/Graphic/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/niko6/CLionProjects/Graphic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
